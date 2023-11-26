@@ -1,3 +1,6 @@
+
+[![Build status](https://ci.appveyor.com/api/projects/status/5otf7fgmpi64i248?svg=true)](https://ci.appveyor.com/project/ivangol739/react-2-2)
+
 Расположение товаров
 ===
 
